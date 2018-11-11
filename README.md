@@ -6,6 +6,8 @@ so basic school mangemnt system based on express and mongodb.
 you can insert,edit,delete,update...
 hope you guys like it.
 
+#### thre are some screenshort result of the project
+
 ### 有五张图具体的显示运行结果
 
 再本地数据库中建了一个userinfo的数据库，下面有个集合叫students
