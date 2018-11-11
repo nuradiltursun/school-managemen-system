@@ -3,7 +3,7 @@
 作为初学者刚完成了合这个项目，希望对你们有帮助！
 
 so basic school mangemnt system based on express and mongodb.
-you can edit,delete,update...
+you can insert,edit,delete,update...
 hope you guys like it.
 
 ### 有五张图具体的显示运行结果
