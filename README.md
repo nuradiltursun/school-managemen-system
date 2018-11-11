@@ -1,4 +1,4 @@
-# 学生管理系统
+# 学生管理系统(School management system)
 基于express，mongodb的学生管理系统
 作为初学者刚完成了合这个项目，希望对你们有帮助！
 
